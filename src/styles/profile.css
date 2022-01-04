@@ -1,0 +1,71 @@
+.containers{
+    margin-top:30px;
+    justify-content:center;
+    align-items:center;
+    display:flex;
+}
+
+.profilepic{
+    display:flex;
+}
+
+.profilepic p{
+    margin-left:10px;
+}
+
+.information{
+    width:699px;
+    height:100%;
+    margin-left:30px;
+    border-radius: 15px;
+    background: #e0e0e0;
+    box-shadow:  20px 20px 60px #bebebe,             -20px -20px 60px #ffffff;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    padding-left:10px;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:20px;
+}
+
+.h5{
+    font-weight: bold;
+}
+
+.section{
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 30px;
+    
+}
+
+.section .checkorders{
+    width:320px;
+    height:30px;;
+    align-items:center;
+    text-align:center;
+    
+    color: #000;
+    border-radius: 30px;
+background: linear-gradient(315deg, #cacaca, #f0f0f0);
+box-shadow:  -12px -12px 27px #c7c7c7,
+             12px 12px 27px #f9f9f9;
+    cursor: pointer;
+}
+
+.pic{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top: 30px;
+}
+
+.pic img{
+    width:100px;
+}
+

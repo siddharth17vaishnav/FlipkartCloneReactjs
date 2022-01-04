@@ -1,0 +1,20 @@
+.container{
+    display:flex;
+}
+
+.left img{
+    
+    margin-right: 20px;;  
+}
+
+
+
+.highlight{
+    margin-right: 30px;
+}
+
+
+.highright{
+    max-width: 200px;
+    word-break: break;
+}

@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+}
+
+.left img{
+    width:80px;
+    margin-left:100px;
+}
+
+.left input[type="search"]{
+    border:none;
+    border-radius:3px;
+    margin-left:8px;
+    size:6px;
+    border-top-style: hidden;
+     border-right-style: hidden;
+     border-left-style: hidden;
+     border-bottom-style: groove;
+}
+
+.search{
+    cursor: pointer;
+}
+
+.show{
+    display:none;
+}
+
+

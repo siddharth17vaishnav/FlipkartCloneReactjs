@@ -1,0 +1,30 @@
+
+
+.header{
+    margin-left: 23px;
+    margin-top:8px;
+    font-size:18px;
+    font-weight: bold;
+    border-radius: 50px;
+    margin-bottom:10px;
+
+}
+
+.img{
+    width: 10px;
+    height:200px;
+    object-fit: contain;
+   
+}
+
+.img p{
+    text-align: center;
+}
+
+.img img{
+    margin-left: 0px;
+    width:100%;
+    object-fit: contain;
+    border-radius: 50;
+    cursor:pointer;
+}
